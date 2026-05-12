@@ -2,7 +2,7 @@
 
 Gennemgang af brug af github til deling og hosting af webpages.
 
-## Inhold
+## Indhold
 
 * ```samarbejde.md```, hvoran man kan kopiere materiale og samarbejde.
 * ```webside.md```, hvordan man bruger GitHub til websider.
