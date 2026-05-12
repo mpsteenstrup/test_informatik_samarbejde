@@ -14,3 +14,13 @@
 * Brug.
   - markdown og visning på GH.
   - Visning som webpage, GitHub pages.
+* Arbejde direkte på GitHub.
+  - Kan man bruge en online editor.
+  - Elevers brug at GitHub til at lave hjemmesider.
+  
+
+Eksempel på hvordan man kan indsætte billde
+
+
+  <img width="1920" height="1080" alt="slides_baggrund" src="https://github.com/user-attachments/assets/102e4a86-cfcb-406f-9876-a7fd75631022" />
+
