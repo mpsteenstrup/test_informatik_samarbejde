@@ -8,3 +8,5 @@ Hvis det oprindelige repo bliver opdateres kommer der en besked og man kan vælg
 
 
 Hvis man vil bidrage med noget skal man lave en ```Pull reguest``` så vil den som har hoved-repo kunne flette det ind.
+jeg vil også skrive noget.
+
