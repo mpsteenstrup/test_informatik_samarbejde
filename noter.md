@@ -1,11 +1,11 @@
 # test_informatik_samarbejde
 
 Science konference
-10 min: Jacob starter med kompendie intro og viser WordPress.
-10 min: Vidensdeling på WordPress.
-10 min: Mads Peter viser Github.
-45 min: Øvelse i fork og pull reguest i github.
-        Peer review eller se 
+- 10 min: Jacob starter med kompendie intro og viser WordPress.
+- 10 min: Vidensdeling på WordPress.
+- 10 min: Mads Peter viser Github.
+- 45 min: Øvelse i fork og pull reguest i github.
+        - Peer review eller se 
 
 Tråd med forløb der mangler forløb der kan være der allerede og som der skal være mere af, mangler på it-laerer.dk
 
