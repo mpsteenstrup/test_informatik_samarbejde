@@ -21,6 +21,7 @@
 
 Eksempel på hvordan man kan indsætte billde
 
+  <img width="1408" height="768" alt="stige_morris" src="https://github.com/user-attachments/assets/47e9d1af-bfed-4392-b5da-bd7f216b715b" />
 
   <img width="1920" height="1080" alt="slides_baggrund" src="https://github.com/user-attachments/assets/102e4a86-cfcb-406f-9876-a7fd75631022" />
 
