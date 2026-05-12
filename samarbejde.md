@@ -6,5 +6,7 @@ Information på GitHub er ordnet i repositories kaldet repo. Hvis man godt vil g
 
 Hvis det oprindelige repo bliver opdateres kommer der en besked og man kan vælge ```Sync fork``` så man kopiere det nye ind på ens eget.
 
+
+Hvis man vil bidrage med noget skal man lave en ```Pull reguest``` så vil den som har hoved-repo kunne flette det ind.
 jeg vil også skrive noget.
 
