@@ -1,5 +1,8 @@
 # test_informatik_samarbejde
 
+## titel: deling i en digital tid - it-laerer.dk og GitHub
+### Hvordan vi kan bruge hinanden til fede forløb og undervisningsmateriale
+
 Science konference
 - 10 min: Jacob starter med kompendie intro og viser WordPress.
 - 20 min: Vidensdeling på WordPress.
