@@ -1,6 +1,7 @@
-# test_informatik_samarbejde
+# noter til informatik samarbejde
 
-## titel: deling i en digital tid - it-laerer.dk og GitHub
+# Konference
+## titel: Deling i en digital tid - it-laerer.dk og GitHub
 ### Hvordan vi kan bruge hinanden til fede forløb og undervisningsmateriale
 
 Science konference
