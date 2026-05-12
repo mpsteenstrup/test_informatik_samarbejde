@@ -21,10 +21,6 @@
 * **Konflikter:** Sker når den samme linje er rettet to forskellige steder. De skal altid løses manuelt.
 * **Synkronisering:** Husk jævnligt at "Sync fork" på GitHub, så din kopi ikke bliver forældet i forhold til originalen.
 
-Her er en struktureret par-øvelse, som I kan køre igennem for at få fingrene helt ned i de vigtigste funktioner.
-
-I øvelsen kalder vi jer **Person A** (ejeren) og **Person B** (samarbejdspartneren).
-
 ---
 
 ## Par-øvelse: GitHub Workflow
